@@ -26,6 +26,7 @@ export const GlobalStyle = createGlobalStyle`
     --unnamed-font-family-muli: 'Muli', sans-serif;
     --unnamed-font-size-12: 12px;
     --unnamed-font-size-13: 13px;
+    --unnamed-font-size-16: 16px;
     --unnamed-font-size-18: 18px;
     --unnamed-font-size-21: 21px;
     --unnamed-font-size-24: 24px;

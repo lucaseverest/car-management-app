@@ -13,6 +13,7 @@ const theme = {
     text: "#454545",
     grayDark: "#263238",
     grayLight: "#F5F5F5",
+    placeholder: "#757575",
   },
   fonts: {
     main: "'Muli', sans-serif",

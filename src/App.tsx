@@ -11,7 +11,7 @@ const App: React.FC = () => {
     <ThemeProvider theme={theme}>
       <CarProvider>
         <GlobalStyle />
-        <Router>
+        <Router basename={import.meta.env.BASE_URL}>
           <div className="App">
             <Routes>
               <Route path="/" element={<Home />} />

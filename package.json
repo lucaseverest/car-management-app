@@ -1,7 +1,7 @@
 {
   "name": "car-management-app",
   "private": true,
-  "homepage": "https://github.com/lucaseverest/car-management-app",
+  "homepage": "https://lucaeverest.github.io/car-management-app",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
